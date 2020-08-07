@@ -1,334 +1,68 @@
 §lUpdate History
 !!! BACKUP YOUR WORLDS BEFORE UPDATING !!!
 ---------------------------------------------------------------------------------
-0.1.8r
+1.3b
  
 §1Yes old worlds should be compatible, you will get a message about missing entries,
 §1just click yes to accept changes and your world should load fine.
  
 §lNew Mods:
-*It's the little things
+*Crash To Main Menu
 *Waila harvestability
 *Hwyla
-*Interstellar Exoplanets
- 
-§lServer Utilities:
-*Item Blacklist
-*CraftTweaker2
-*Galacticraft Tweaker
-
-§lFixes/changes
-*New pack logo
-*Removed old config files
-*Made galacticraft slightly harder
-*Disabled Kepler 22b planet as it is to overpowing
-*Agricraft is now also slightly harder
-*KAC file updated
-*Small menu tweaks
-*Renamed Changelog to What's New!
-*Added Report a Bug
-*Enabled quark's better vanilla textures
-*Disabled quark's boat sails
-*Disabled Open Blocks info Book
- 
-§l§cRemoved Mods:
-*Grappling Hook
-*Minecraft Comes Alive
-*Chunkanimator
-*Chisel
-*CTM
-*FPS Reducer
-*Modpack Utilities
-*The One Probe
- 
-§lMod Updates:
-*CraftPresence to V1.6.5
-*EnderCore to V0.5.75
-*NetherEx to V2.1.7
-*Galacticraft to V4.0.2.280
-*MicdoodleCore to V4.0.2.280
-*EnderCore to V0.5.76
-*Immersive Engineering to V0.12-98
----------------------------------------------------------------------------------
-0.1.7.1r
- 
-§1Yes old worlds are compatible, you might get a message about missing entries,
-§1just click yes to accept changes and your world should load fine.
- 
-§lNew Mods:
-*
-
+*Far From Home world gen
+*Biomes O Plenty
+*The Erebus
+*Traveler's Backpack
  
 §lFixes/changes
-*Fixed mod rejections (CurseForge, ATLauncher)
-*Currected Forge build
- 
-§l§cRemoved Mods:
-*cartblanche (no longer avalible on curseforge)
-
- 
-§lMod Updates:
-*Galacticraft to V4.0.2.277
-*LibraryEx to V1.1.3
-*NetherEx to V2.1.6
-*Smooth Font to V2.1.2
----------------------------------------------------------------------------------
-0.1.7r
- 
-§1Yes old worlds are compatible, you might get a message about missing entries,
-§1just click yes to accept changes and your world should load fine.
- 
-§lNew Mods:
-*ExtraCells 2
-*Treecapitator
-*Borderless Mining
-*OpenBlocks
- 
- 
-§lFixes/changes
-*Added a custom graphite recipe seed for Mystical agriculture
-*Extra Planets and More Planets are now compatible with each other
-*Minecraft Comes Alive trading has been disabled
-*Disabled Quark's sign edit feature
-*Disabled Quark's chest buttons
-*Updated Faithful Texutre pack assets
-*Added Bdcraft 128x texture pack:
-https://mega.nz/file/wgBnSACZ#yLmEGSzARgENkWPNR22ZvEhW2IJYt1IAdqeueVzTZaA
+*New pack icon
+*JournyMap has moved to the top right
 *Small main menu tweaks
+*Added "What's New" button on the main menu
+*Dinosaurs now spawn naturally
+*Dinosaurs will now create eggs instead of spawning entities
+*JJ Meteors impact will now drop items instead of spawning blocks on impact
+*Lowered to spawn rate of Exotic birds nests to 15%
  
 §l§cRemoved Mods:
-*AsmodeusCore
- 
+*VanillaFix
+*FPS Reducer
+*Chunk Animator
+*The One Probe
+*Biome Bundle
+*Vanilla Vistas
+*Dregora
+*Traveler's Dream
+*Farseek
+*Improved Backpacks
  
 §lMod Updates:
 *Minecraft Forge to V14.23.5.2854
-*Galacticraft to V4.0.2.272
-*Cosmetic Armor Reworked to Vv5a
-*ExtraPlanets to V0.6.4
-*MorePlanets to V2.0.24-GC251
-*NetherEx to V2.1.5
-*PlanetProgression to V0.4.4
-*RandomPatches to V1.21.0.3
-*FPS Reducer to V1.15
----------------------------------------------------------------------------------
-0.1.6.2r
- 
-§1Yes old worlds are compatible, you might get a message about missing entries,
-§1just click yes to accept changes and your world should load fine.
- 
-§lNew Mods:
-*
-
- 
-§lFixes/changes
-*Attempt to fix inferium seeds not planting with cropsticks (again)
-
- 
-§l§cRemoved Mods:
-*
-
- 
-§lMod Updates:
-*Controlling to V3.0.9
-*NetherEx to V2.1.3
----------------------------------------------------------------------------------
-0.1.6.1r
- 
-§1Yes old worlds are compatible, you will get a message about missing entries,
-§1just click yes to accept changes and your world should load fine.
- 
-§lNew Mods:
-*Industrial Foregoing
-*Integration Foregoing
-
- 
-§lFixes/changes
-*Fixed inferium seeds not planting with cropsticks
-*Fixed a crash casued by Smart Animations
-*Fixed MCA tick issue
- 
-§l§cRemoved Mods:
-*
-
- 
-§lMod Updates:
-*Quark to Vr1.6-179
----------------------------------------------------------------------------------
-0.1.6r
- 
-§1No old worlds are not guaranteed to break. load up your worlds at your own risk.
- 
-§lNew Mods:
-*Matter Overdrive: Legacy Edition
-*Chunk Animator
-*AgriCraft
-
- 
-§lFixes/changes
-*Pack now requires 3GB of ram
-*Rebuild the content of resources folder
-*general tweaks 
- 
-§l§cRemoved Mods:
-*FoamFix
-*Phosphor
-*Dynamic Tress
-*Oxygen Core
-*Oxygen Friends List
-*Oxygen Player Interaction
-*TekTopia
-*WrapUp
-*Blockings
-*BNBGamingLib
-*It's the little things
-
- 
-§lMod Updates:
-*Buildcraft to V7.99.24.6
+*Better Diving to V1.5.3
 *Chisel to V1.0.2.45
-*CTM to V1.0.2.31
-*ExtraPlanets to V0.6.3
-*Journeymap to V5.7.1
-*Obfuscate to V0.4.2
-*LibraryEx to V1.1.2
-*AsmodeusCore to V0.0.13
-*DynamicSurroundings to V3.6.1.0
-*NetherEx to V2.1.2
-*Randompatches to V1.21.0.1
----------------------------------------------------------------------------------
-0.1.5r - Performance improvements
- 
-§1Yes old worlds are compatible, you will get a message about missing entries,
-§1just click yes to accept changes and your world should load fine.
- 
-§lNew Mods:
-*AI Improvements
-*NetherPortalFix
-*FoamFix
-*FPS Reducer
-*Unloader
-*Phosphor
-*Default world generator
- 
-§lFixes/changes
-*Updated pack icon
-*Trees will no longer harm players/aniamls when chopped.
-*Lowed Slime island spawn rate to 530
- 
-§l§cRemoved Mods:
-*Controllable
-*Idō
-*Clumps
-*sereneseasons
- 
-§lMod Updates:
-*Buildcraft to V7.99.24.5
-*Cosmetic Armor Reworked to Vv4b
-*Tinkers Construct to V2.13.0.183
-*JourneyMap to V5.7.0
-*LibraryEx to V1.1.1
-*NetherEx to V2.1.1
-*Planet Progression to V0.4.2
-*Quark to Vr1.6-178
-*Sound Filters to V0.12
-*Tesla Core Lib to V1.0.17
-*Oxygen Core to V0.11.0
-*Oxygen: Friends List to V0.11.0
-*Oxygen: Player Interaction to V0.11.0
-*Oxygen: Players List to V0.11.0
-*Oxygen: Menu to V0.11.0
-*
----------------------------------------------------------------------------------
-0.1.3.2r
-
-
-§1Yes old worlds are compatible, you will get a message about missing entries, 
-just click yes to accept changes and your world should load fine.
-
-§lNew Mods:
-*Controllable 
-*Default Options
-*ReAuth
-*Better Invalid Sessions
-
-§lFixes/changes
-*Small main menu tweaksd
-*remaped in-game controls
-*New Server IP
-
-§l§cRemoved Mods:
-*
-
-§lMod Updates:
-*Custom Main Menu to V2.0.9.1
-*CraftPresence to V1.6.1
-*Dynamic Trees to V0.9.7
-*Ender IO to V5.1.55
-*JourneyMap to V5.5.9
-*Oxygen Core to V0.10.2
-*Oxygen: Friends List to V0.10.1
-*Oxygen: Menu to V0.10.0
-*Oxygen: Player Interaction to V0.10.0
-*Oxygen: Players List to V0.10.0
-*Planet Progression to V0.4.1
-*RandomPatches to V1.21.0.0
-*Tinkers Construct to V2.13.0.179
-*Galacticraft to V4.0.2.244
----------------------------------------------------------------------------------
-0.1.3.1r
-
-
-§1Yes old worlds are compatible, you will get a message about missing entries, 
-just click yes to accept changes and your world should load fine.
-
-§lNew Mods:
-*Sound Filter
-
-§lFixes/changes
-*Added missing mod Sound Filer (Technic)
-*Updated server IP to our universal IP
-
-§l§cRemoved Mods:
-*None :)
-
-§lMod Updates:
-*Controlling to V3.0.8
-*ExtraPlanets to V0.6.2
-*MrCrayfish's Gun Mod to V0.15.3
-*RandomPatches to V1.20.1.0
-*Tinkers Construct to V2.13.0.171
----------------------------------------------------------------------------------
-0.1.3b
-
-
-§1This update may break existing worlds.
-
-§lNew Mods:
-*Mekanisum
-*Mekanisum Generators
-*Mekanisum Tools
-*Biomes O' Plenty
-*TekTopia
-*Dynamic Surroundings
-*Dynamic Trees
-*Dynamic Trees - Biomes O' Plenty Compat
-*Fancy Block Particles
-
-§lFixes/changes
-*Fixed loading screen background
-*Lowered monster spawn rate during Bloodmoon
-*Increased monster distance spawn rate during Bloodmoon
-*Updated KAC file
-*Main Menu will now ding to let you know the pack has loaded
-
-§l§cRemoved Mods:
-*WildNature
-*Coloured Tooltips
-*OptiFine (manually download at optifine.net)
-§lMod Updates:
-*Controlling to V3.0.8
-*ExtraPlanets to V0.6.2
-*MrCrayfish's Gun Mod to V0.15.3
-*RandomPatches to V1.20.1.0
-*Tinkers Construct to V2.13.0.171
+*CoFH Core to V4.6.6.1
+*CoFH World to V1.4.0.1
+*ConnectedTexturesMod to V1.0.2.31
+*CraftPresence to V1.6.5
+*Creative Core to V1.10.16
+*Dynamic Surroundings to V3.6.1.0
+*EnderIO to V5.2.59
+*EnderCore to V0.5.76
+*EnhancedVisuals to V1.3.15
+*Exotic Birds to V3.2.0
+*Fossils and Archeology Revival to V8.0.4
+*JJ Meteor to V1.0.10
+*JourneyMap to V5.7.1
+*Just Enough Items to V4.15.0.297
+*Open Modular Turrets to V3.1.11-372
+*Quark to Vr1.6-179
+*RandomPatches to V1.22.0.0
+*Redstone Flux to V2.1.1.1
+*Security Craft to V1.8.19
+*Smooth Font to V2.1.2
+*Thermal Dynamics to V2.5.6.1
+*Thermal Expansion to V5.5.7.1
+*Thermal Foundation to V2.6.7.1
+*YUNG's Better Caves to V2.0.3
 ---------------------------------------------------------------------------------
