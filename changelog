@@ -1,23 +1,23 @@
-# Update History
-# !!! BACKUP YOUR WORLDS BEFORE UPDATING !!!
+§lUpdate History
+!!! BACKUP YOUR WORLDS BEFORE UPDATING !!!
 ---------------------------------------------------------------------------------
 0.1.8r
  
-Yes old worlds should be compatible, you will get a message about missing entries,
-just click yes to accept changes and your world should load fine.
+§1Yes old worlds should be compatible, you will get a message about missing entries,
+§1just click yes to accept changes and your world should load fine.
  
-New Mods:
+§lNew Mods:
 *It's the little things
 *Waila harvestability
 *Hwyla
 *Interstellar Exoplanets
  
-Server Utilities:
+§lServer Utilities:
 *Item Blacklist
 *CraftTweaker2
 *Galacticraft Tweaker
 
-Fixes/changes
+§lFixes/changes
 *New pack logo
 *Removed old config files
 *Made galacticraft slightly harder
@@ -31,7 +31,7 @@ Fixes/changes
 *Disabled quark's boat sails
 *Disabled Open Blocks info Book
  
-Removed Mods:
+§l§cRemoved Mods:
 *Grappling Hook
 *Minecraft Comes Alive
 *Chunkanimator
@@ -41,7 +41,7 @@ Removed Mods:
 *Modpack Utilities
 *The One Probe
  
-Mod Updates:
+§lMod Updates:
 *CraftPresence to V1.6.5
 *EnderCore to V0.5.75
 *NetherEx to V2.1.7
@@ -52,22 +52,22 @@ Mod Updates:
 ---------------------------------------------------------------------------------
 0.1.7.1r
  
-Yes old worlds are compatible, you might get a message about missing entries,
-just click yes to accept changes and your world should load fine.
+§1Yes old worlds are compatible, you might get a message about missing entries,
+§1just click yes to accept changes and your world should load fine.
  
-New Mods:
+§lNew Mods:
 *
 
  
-Fixes/changes
+§lFixes/changes
 *Fixed mod rejections (CurseForge, ATLauncher)
 *Currected Forge build
  
-Removed Mods:
+§l§cRemoved Mods:
 *cartblanche (no longer avalible on curseforge)
 
  
-Mod Updates:
+§lMod Updates:
 *Galacticraft to V4.0.2.277
 *LibraryEx to V1.1.3
 *NetherEx to V2.1.6
@@ -75,17 +75,17 @@ Mod Updates:
 ---------------------------------------------------------------------------------
 0.1.7r
  
-Yes old worlds are compatible, you might get a message about missing entries,
-just click yes to accept changes and your world should load fine.
+§1Yes old worlds are compatible, you might get a message about missing entries,
+§1just click yes to accept changes and your world should load fine.
  
-New Mods:
+§lNew Mods:
 *ExtraCells 2
 *Treecapitator
 *Borderless Mining
 *OpenBlocks
  
  
-Fixes/changes
+§lFixes/changes
 *Added a custom graphite recipe seed for Mystical agriculture
 *Extra Planets and More Planets are now compatible with each other
 *Minecraft Comes Alive trading has been disabled
@@ -96,11 +96,11 @@ Fixes/changes
 https://mega.nz/file/wgBnSACZ#yLmEGSzARgENkWPNR22ZvEhW2IJYt1IAdqeueVzTZaA
 *Small main menu tweaks
  
-Removed Mods:
+§l§cRemoved Mods:
 *AsmodeusCore
  
  
-Mod Updates:
+§lMod Updates:
 *Minecraft Forge to V14.23.5.2854
 *Galacticraft to V4.0.2.272
 *Cosmetic Armor Reworked to Vv5a
@@ -113,63 +113,63 @@ Mod Updates:
 ---------------------------------------------------------------------------------
 0.1.6.2r
  
-Yes old worlds are compatible, you might get a message about missing entries,
-just click yes to accept changes and your world should load fine.
+§1Yes old worlds are compatible, you might get a message about missing entries,
+§1just click yes to accept changes and your world should load fine.
  
-New Mods:
+§lNew Mods:
 *
 
  
-Fixes/changes
+§lFixes/changes
 *Attempt to fix inferium seeds not planting with cropsticks (again)
 
  
-Removed Mods:
+§l§cRemoved Mods:
 *
 
  
-Mod Updates:
+§lMod Updates:
 *Controlling to V3.0.9
 *NetherEx to V2.1.3
 ---------------------------------------------------------------------------------
 0.1.6.1r
  
-Yes old worlds are compatible, you will get a message about missing entries,
-just click yes to accept changes and your world should load fine.
+§1Yes old worlds are compatible, you will get a message about missing entries,
+§1just click yes to accept changes and your world should load fine.
  
-New Mods:
+§lNew Mods:
 *Industrial Foregoing
 *Integration Foregoing
 
  
-Fixes/changes
+§lFixes/changes
 *Fixed inferium seeds not planting with cropsticks
 *Fixed a crash casued by Smart Animations
 *Fixed MCA tick issue
  
-Removed Mods:
+§l§cRemoved Mods:
 *
 
  
-Mod Updates:
+§lMod Updates:
 *Quark to Vr1.6-179
 ---------------------------------------------------------------------------------
 0.1.6r
  
-No old worlds are not guaranteed to break. load up your worlds at your own risk.
+§1No old worlds are not guaranteed to break. load up your worlds at your own risk.
  
-New Mods:
+§lNew Mods:
 *Matter Overdrive: Legacy Edition
 *Chunk Animator
 *AgriCraft
 
  
-Fixes/changes
+§lFixes/changes
 *Pack now requires 3GB of ram
 *Rebuild the content of resources folder
 *general tweaks 
  
-Removed Mods:
+§l§cRemoved Mods:
 *FoamFix
 *Phosphor
 *Dynamic Tress
@@ -183,7 +183,7 @@ Removed Mods:
 *It's the little things
 
  
-Mod Updates:
+§lMod Updates:
 *Buildcraft to V7.99.24.6
 *Chisel to V1.0.2.45
 *CTM to V1.0.2.31
@@ -198,10 +198,10 @@ Mod Updates:
 ---------------------------------------------------------------------------------
 0.1.5r - Performance improvements
  
-Yes old worlds are compatible, you will get a message about missing entries,
-just click yes to accept changes and your world should load fine.
+§1Yes old worlds are compatible, you will get a message about missing entries,
+§1just click yes to accept changes and your world should load fine.
  
-New Mods:
+§lNew Mods:
 *AI Improvements
 *NetherPortalFix
 *FoamFix
@@ -210,18 +210,18 @@ New Mods:
 *Phosphor
 *Default world generator
  
-Fixes/changes
+§lFixes/changes
 *Updated pack icon
 *Trees will no longer harm players/aniamls when chopped.
 *Lowed Slime island spawn rate to 530
  
-Removed Mods:
+§l§cRemoved Mods:
 *Controllable
 *Idō
 *Clumps
 *sereneseasons
  
-Mod Updates:
+§lMod Updates:
 *Buildcraft to V7.99.24.5
 *Cosmetic Armor Reworked to Vv4b
 *Tinkers Construct to V2.13.0.183
@@ -237,28 +237,29 @@ Mod Updates:
 *Oxygen: Player Interaction to V0.11.0
 *Oxygen: Players List to V0.11.0
 *Oxygen: Menu to V0.11.0
+*
 ---------------------------------------------------------------------------------
 0.1.3.2r
 
 
-Yes old worlds are compatible, you will get a message about missing entries, 
+§1Yes old worlds are compatible, you will get a message about missing entries, 
 just click yes to accept changes and your world should load fine.
 
-New Mods:
+§lNew Mods:
 *Controllable 
 *Default Options
 *ReAuth
 *Better Invalid Sessions
 
-Fixes/changes
+§lFixes/changes
 *Small main menu tweaksd
 *remaped in-game controls
 *New Server IP
 
-Removed Mods:
+§l§cRemoved Mods:
 *
 
-Mod Updates:
+§lMod Updates:
 *Custom Main Menu to V2.0.9.1
 *CraftPresence to V1.6.1
 *Dynamic Trees to V0.9.7
@@ -277,20 +278,20 @@ Mod Updates:
 0.1.3.1r
 
 
-Yes old worlds are compatible, you will get a message about missing entries, 
+§1Yes old worlds are compatible, you will get a message about missing entries, 
 just click yes to accept changes and your world should load fine.
 
-New Mods:
+§lNew Mods:
 *Sound Filter
 
-Fixes/changes
+§lFixes/changes
 *Added missing mod Sound Filer (Technic)
 *Updated server IP to our universal IP
 
-Removed Mods:
+§l§cRemoved Mods:
 *None :)
 
-Mod Updates:
+§lMod Updates:
 *Controlling to V3.0.8
 *ExtraPlanets to V0.6.2
 *MrCrayfish's Gun Mod to V0.15.3
@@ -300,9 +301,9 @@ Mod Updates:
 0.1.3b
 
 
-This update may break existing worlds.
+§1This update may break existing worlds.
 
-New Mods:
+§lNew Mods:
 *Mekanisum
 *Mekanisum Generators
 *Mekanisum Tools
@@ -313,14 +314,14 @@ New Mods:
 *Dynamic Trees - Biomes O' Plenty Compat
 *Fancy Block Particles
 
-Fixes/changes
+§lFixes/changes
 *Fixed loading screen background
 *Lowered monster spawn rate during Bloodmoon
 *Increased monster distance spawn rate during Bloodmoon
 *Updated KAC file
 *Main Menu will now ding to let you know the pack has loaded
 
-Removed Mods:
+§l§cRemoved Mods:
 *WildNature
 *Coloured Tooltips
 *OptiFine (manually download at optifine.net)
