@@ -1,12 +1,12 @@
-# Colony Lost in Deep Space 1.12
+# Fossilized
 ======
 
-This is the official repository and issue-tracker for Colony Lost in Deep Space 1.12
+This is the official repository and issue-tracker for Fossilized 1.12
     
 #### Modpack Links: 
-+ https://www.curseforge.com/minecraft/modpacks/lost-in-deep-space/files  
-+ https://www.technicpack.net/modpack/colony-lost-in-deep-space.1587981  
-+ https://atlauncher.com/pack/ColonyLostinDeepSpace  
++ https://www.curseforge.com/minecraft/modpacks/fossilized  
++ https://www.technicpack.net/modpack/fossilized.1628025  
++ https://atlauncher.com/pack/Fossilized/  
   
 Need Help?
 ======
