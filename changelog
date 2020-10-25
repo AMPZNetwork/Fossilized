@@ -1,6 +1,36 @@
 §lUpdate History
 §c!!! BACKUP YOUR WORLDS BEFORE UPDATING !!!
 ---------------------------------------------------------------------------------
+1.4.0b 
+ 
+§1Yes old worlds should be compatible, you will get a message about missing entries,
+§1just click yes to accept changes and your world should load fine.
+ 
+§lNew Mods:
+*Streams
+ 
+§lFixes/changes
+*Another attempt to fix the terrain render isssue (server side)
+*Fixed error java.lang.NullPointerException: Ticking entity
+*Disabled Thermal Foundation copper ore
+*Updated Server IP
+*KAC file updated
+ 
+§l§cRemoved Mods:
+
+§lMod Updates:
+*CreativeCore (1.10.16 → 1.10.32)
+*EnhancedVisuals (1.3.15 → 1.3.18)
+*RandomPatches (1.22.1.2 → 1.22.1.7)
+*CraftPresence (1.7.0 → 1.7.5)
+*Ender IO (5.2.59 → 5.2.61)
+*YUNG's Better Mineshafts (2.0.1 → 2.1.1)
+*Open Modular Turrets (3.1.11-372 → 3.2.0-374)
+*Dynamic Surroundings (3.6.1.0 → 3.6.2.0)
+*Omlib (3.1.4-249 → 3.2.0-256)
+*BetterDiving (1.5.7 → 1.5.8)
+*SecurityCraft (1.8.19.3 → 1.8.20)
+---------------------------------------------------------------------------------
 1.3.1b - Performance Improvments
  
 §1Yes old worlds should be compatible, you will get a message about missing entries,
