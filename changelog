@@ -1,6 +1,27 @@
 §lUpdate History
 §c!!! BACKUP YOUR WORLDS BEFORE UPDATING !!!
 ---------------------------------------------------------------------------------
+1.4.1b 
+ 
+ 
+§lNew Mods:
+*NoMoreRecipeConflict
+ 
+§lFixes/changes
+*Fixed missing mod JJ Meteor (ATLauncher)
+*Fixed JJ Meteors impact issue
+*Updated KAC files
+ 
+§l§cRemoved Mods:
+
+§lMod Updates:
+*CraftPresence (1.7.5 → 1.7.5 Beta6)
+*Farseek (2.5 → 2.5.1)
+*OpenTerrainGenerator (8.3 → 9.0)
+*Security Craft (1.8.20 → 1.8.20.1)
+*JJ Meteor (v1.0.9 → v1.0.10)
+*OMLib (3.2.0-256 → 3.1.4-249)
+---------------------------------------------------------------------------------
 1.4.0b 
  
 §1Yes old worlds should be compatible, you will get a message about missing entries,
