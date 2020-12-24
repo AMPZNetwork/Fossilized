@@ -1,6 +1,52 @@
 §lUpdate History
 §c!!! BACKUP YOUR WORLDS BEFORE UPDATING !!!
 ---------------------------------------------------------------------------------
+1.5.0b
+
+§1No old worlds may break in the update, Please make a backup of your worlds before loading into them after updating.
+
+§1New Mods:
+*Phoshor
+*Prehistoric Spawns
+*Prehistoric Flora
+*Aquaculture 2
+*OldJavaWarning
+*Tough As Nails
+*Torch Slab Mod
+*Trample Stopper
+*FallingTree
+*Classic Combat
+*Macaw's Doors
+*Macaw's Windows
+*Macaw's Roofs
+*Macaw's Furniture
+
+§1Fixes/changes
+*Thirst has been enabled, make sure to keep a water bottle with you at all times.
+*Performance Improvements 
+*Updated Loading Screen Tips file.
+*Moved Tips location to the bottom left of the screen.
+*Fixed an issue that would occur when using Linux.
+*Updated KAC files
+
+§1§cRemoved Mods:
+*JJ Meteor
+*OptiFine (download from https://www.optifine.net/downloads)
+*Fancy Block Particles
+*TreeCapitator
+*Mr Crayfish's Furniture
+
+§1Mod Updates:
+*Minecraft Forge (14.23.5.2854 → 14.23.5.2855)
+*SecurityCraft (1.8.20.1 → 1.8.20.2)
+*CraftPresence (1.7.5 Beta → 1.7.5 Stable)
+*CreativeCore (1.10.32 → 1.10.34)
+*EnderIO (5.2.61 → 5.2.66)
+*Library (1.7.19 → 1.7.20)
+*RandomPatches (1.22.1.7 → 1.22.1.10)
+*EnhancedVisuals (1.3.18 → 1.3.22)
+*Foamfix (0.10.10 → 0.10.11)
+---------------------------------------------------------------------------------
 1.4.1b 
  
  
