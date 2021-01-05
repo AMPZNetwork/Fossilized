@@ -1,6 +1,32 @@
 §lUpdate History
 §c!!! BACKUP YOUR WORLDS BEFORE UPDATING !!!
 ---------------------------------------------------------------------------------
+1.5.1b 
+ 
+§1Yes old worlds are compatibly with this update. 
+§1Report any issues over at (https://github.com/AMPZNetwork/fossilized)
+
+
+§lNew Mods:
+*Just Enough IDs
+*ClimateControl
+ 
+§lFixes/changes
+*Fixed error "chat.falling_tree.tree_too_big".
+*RTG and Biomes O Plenty should now generte along side each other.
+*New and current worlds will now load using the 1.13 chunk format.
+*Players will now take longer to get thirsty.
+*Rain can now be drunk by sneaking and right-clicking with an empty hand.
+*Created a BDcraft 128x pack (download over at our Discord server)
+*Updated KAC File
+ 
+§l§cRemoved Mods:
+*
+
+§lMod Updates:
+*Lepidodendron (v.29.1 → v.30.0)
+*Travelers Backpack (1.0.34 → 1.0.35)
+---------------------------------------------------------------------------------
 1.5.0b
 
 §1No old worlds may break in the update, Please make a backup of your worlds before loading into them after updating.
