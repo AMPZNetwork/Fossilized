@@ -7,26 +7,6 @@
 # Fossilized | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h1>1.5.2b</h1> 
- 
-<h4>Yes old worlds are compatibly with this update.</h4>
-
-**Updated:**
-+ 
-
-**Changed/Fixed**
-+ Updated Server IP (That's right its back)
-+ Fixed Main Menu music overlap
-
-**Added:**
- 
-**Removed:**
-
-
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Fossilized
-
----------------------------------------------------------------------------------
 <h1>1.5.1b</h1>  
  
 <h4>Yes old worlds are compatibly with this update.</h4>
