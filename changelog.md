@@ -2,6 +2,57 @@
 # Fossilized | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+# Fossilized | Patch Notes
+<h2>Be sure to always backup your world(s) before updating!</h2>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.6.0b</h1> 
+ 
+<h4>Yes old worlds are compatibly with this update.</h4>
+
+**Updated:**
++ CraftPresence (1.7.5 → 1.7.6)
++ Dynamic Surroundings (3.6.2.0 → 3.6.2.1.24)
++ Fossils and Archeology Revival (8.0.4 → 8.0.5)
++ It's the little things (1.0.2 → 1.0.3)
++ Open Modular Turrets (3.1.12-378 → 3.2.0-379)
++ OMLib (3.1.4-249 → 3.2.0-256)
++ Phosphor (0.2.6 → 0.2.7)
++ Prehistoric Flora (31.0 → 39.0)
++ Streams (0.4.8 → 0.4.9)
++ Tough As Nails (3.1.0.139 → 3.1.0.141)
++ YUNG's Better Mineshafts (2.1.1 → 2.2)
++ Security Craft (1.8.20.2 → 1.8.21)
+
+**Changed/Fixed**
++ Updated Server IP (That's right its back)
++ Added our Minecraft Partner affiliate link under a new button called "Rent a Server!" 
++ Fixed Main Menu music overlap
++ Fixed an issue that would prevent CurseForge users of Fossiled from joining any third party server.
++ Small UI change to both main menu and the in-game pause screen.
++ Updated loading tips.
++ Updated loading screen image.
++ Updated Main Menu Music
++ The recommended Java to run Fossilized is now (1.8.0_281-b09)
+
+**Added:**
++ Smooth Scrolling Everywhere
++ Bad Wither No Cookie - Reloaded
++ Macaw's Bridges
++ Clumps
++ Controlling
++ Fullscreen Windowed (Borderless)
+
+**Removed:**
++ MPBasic
++ MPUtils
++ EnhancedVisuals
++ CreativeCore
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Fossilized
+
+---------------------------------------------------------------------------------
 <h1>1.5.1b</h1>  
  
 <h4>Yes old worlds are compatibly with this update.</h4>
