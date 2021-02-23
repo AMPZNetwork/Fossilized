@@ -2,10 +2,33 @@
 # Fossilized | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-# Fossilized | Patch Notes
-<h2>Be sure to always backup your world(s) before updating!</h2>
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.6.1b</h1> 
+ 
+<h4>Yes old worlds are compatibly with this update.</h4>
+
+**Updated:**
++ Prehistoric Flora (39.0 → 40.0)
++ The Erebus (1.0.31 → 1.0.32)
+
+**Changed/Fixed**
++ Fixed Java warning for users with newer java installed.
++ Fixed Main Menu logo size.
++ Fixed an issue that would cause items in the top half of chest to disappear (server files).
++ Added missing mod (see added for info) applies to curseforge users only.
++ Updated Pack icon.
++ Replaced What's New! URL with the current link.
++ Securitycraft mines can now be broken in survival.
+
+**Added:**
++ Custom Main Menu (CurseForge Users)
+
+**Removed:**
++ Tough As Nails
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Fossilized
+
+---------------------------------------------------------------------------------
 <h1>1.6.0b</h1> 
  
 <h4>Yes old worlds are compatibly with this update.</h4>
