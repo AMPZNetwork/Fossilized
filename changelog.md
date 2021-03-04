@@ -2,6 +2,65 @@
 # Fossilized | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.7.0b</h1> 
+ 
+<h4>No old worlds will break in the update,<br>
+Please make a backup of your worlds before loading into them after updating.</h4>
+
+**Updated:**
++ 
+
+**Changed/Fixed**
++ Updated Server IP to "fossilized.ampznetwork.com" (old ip will contiune to still work)
++ Disabled Slime Islands from spawning in Anu Lair and Erebus dimensions
++ Moved JourneyMap to the Top Right
++ Fixed RTG generating more ocean than land
++ Fixed some loading screen tips spelling.
++ Fixed Main Menu music from overlaping.
++ Disabled the following Quark features
+- Glass Shards
+- Improved Mount HUD
+- Chest Buttons
+- Marble
+- Limestone 
++ Lowered cave region size to medium.
++ Main Menu and Pause Menu Updated.
+
++ Small performance improvements
+
+**Added:**
++ Applied Energistics 2
++ AgriCraft
++ Backpacked (Press C to open)
++ Bigger Packets Please
++ Corail Tombstone
++ Client Tweaks
++ Controllable
++ Extra Utilites
++ Farming for Blockheads
++ FancyMenu
++ Mystical Agriculture
++ Mystical Agradditions
++ Industrial Foregoing
++ Integration Foregoing
++ Oh The Biomes You'll Go
++ No Recipe Book
++ JAOPCA
++ JAOPCA Agriculture
++ UniDict
+
+**Removed:**
++ General Disasters
++ Custom Main Menu
++ Prehistoric Spawns
++ Traveler's Backpack
++ GeographiCraf
++ DrCyano's Lootable Bodies
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Fossilized
+
+---------------------------------------------------------------------------------
 <h1>1.6.1b</h1> 
  
 <h4>Yes old worlds are compatibly with this update.</h4>
