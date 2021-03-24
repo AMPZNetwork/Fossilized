@@ -2,6 +2,45 @@
 # Fossilized | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.7.1b</h1> 
+ 
+<h4>Yes old worlds are compatibly with this update.</h4>
+
+**Updated:**
++ FancyMenu (1.7.1 → 2.0.4)
++ Konkrete (1.1.3 → 1.1.5)
++ UniDict (3.0.6 → 3.0.7)
++ YUNG's Better Mineshafts (2.2 → 2.2.1)
+
+**Changed/Fixed**
++ Fixed Auto Jump button not showing.
++ Fixed in-game pause menu spacing.
++ Fixed Main Menu Player heads all being default Steve.
++ Added missing mod Fossils and Archeology Revival for curseforge users.
++ Added SkyStone plant seed.
++ Added our Official Guilded Server.
++ Reduced Particels from All to Minimal.
++ Changed "create waypoint" key to the grave key (next to number 1).
++ Changed backpacked key to Shift+B.
++ New loading screen background.
+
+**Added:**
++ Construct's Armory
++ ExtraCells 2
++ Fossils and Archeology Revival (CurseForge)
++ Macaw's Fences and Walls
++ Blur
++ MrCrayfish's Furniture Mod
+
+
+**Removed:**
++ AI Improvements
++ Controllable
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Fossilized
+
+---------------------------------------------------------------------------------
 <h1>1.7.0b</h1> 
  
 <h4>No old worlds will break in the update,<br>
