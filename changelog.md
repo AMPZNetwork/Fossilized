@@ -2,6 +2,42 @@
 # Fossilized | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.7.2b</h1> 
+ 
+<h4>Yes old worlds are compatibly with this update.</h4>
+
+**Updated:**
++ Backpacked (1.4.2 → 1.4.3)
++ JAOPCA (2.8.103 → 2.8.104)
++ UniDict (3.0.7 → 3.0.8)
+
+**Changed/Fixed**
++ Added credit watermark to loading screen.
++ Disabled Dino Starving.
++ Changed Dino Update Delay to 200 ticks.
++ Chnaged Dino upgrade Tick to 2 secounds.
++ Fixed Agricraft seeds not planting.
++ Fixed Forums menu button spelling mistake.
++ Fossil machines now require RF in order to operate.
++ Custom BDcraft 128x pack, download from our discord.
++ Biomes O Plenty is now the default world gen.
+
+**Added:**
++ Better Records
++ Just Enough Energistics (JEE)
++ Controllable
++ Wasaila
++ Chisels & Bits
+
+
+
+**Removed:**
++ Better Diving
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Fossilized
+
+---------------------------------------------------------------------------------
 <h1>1.7.1b</h1> 
  
 <h4>Yes old worlds are compatibly with this update.</h4>
