@@ -2,6 +2,41 @@
 # Fossilized | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.7.3b</h1> 
+ 
+<h4>Yes old worlds should be compatible, you will get a message about missing entries,<br> 
+just click yes to accept changes and your world should load fine.</h4>
+
+**Updated:** 
++ Konkrete (1.1.5 → 1.1.6)
++ CraftPresence (1.7.6 → 1.8.1)
++ Corail Tombstone (4.1.2 → 4.4.0)
++ JAOPCA (2.2.8.104 → 2.2.8.105)
+
+
+**Changed/Fixed**
++ Added the ability to mute the Main Menu.
++ Updated Pack Logo
++ Sharpened font quality. 
+
+
+**Added:**
++ Tiny Progressions
++ Jurassic World Reborn
+
+
+**Removed:**
++ It's the little things
++ Smooth Scrolling
++ Client Tweaks
++ Blur
++ JurassiCraft
++ Controllable
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Fossilized
+
+---------------------------------------------------------------------------------
 <h1>1.7.2b</h1> 
  
 <h4>Yes old worlds are compatibly with this update.</h4>
