@@ -2,6 +2,32 @@
 # Fossilized | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.7.3.1b</h1> 
+ 
+
+<h4>This update is only for CurseForge clients therefore<br>
+is not needed for ATLauncher or Technic.</h4>
+
+**Updated:** 
++ 
+
+
+**Changed/Fixed**
++ Added Missing mod Chisel (CurseForge) 
+
+
+**Added:**
++ Chisel
+
+
+**Removed:**
+
++ Controllable
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Fossilized
+
+---------------------------------------------------------------------------------
 <h1>1.7.3b</h1> 
  
 <h4>Yes old worlds should be compatible, you will get a message about missing entries,<br> 
