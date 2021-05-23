@@ -2,6 +2,55 @@
 # Fossilized | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.8.0b</h1> 
+ 
+
+**Updated:** 
++ Agricraft (1.12.0-a6 → 1.12.2-b2)
++ Corail Tombstone (4.4.0 → 4.4.1)
++ FancyMenu (1.7.1 → 2.0.7)
++ InfinityLib (1.12.0 → 1.12.1)
+
+
+**Changed/Fixed**
++ Fixed OptiFine Video Text.
++ Fixed Forge chunk loading.
++ Disabled Quarks improved sleeping.
++ Disabled Quarks Blossom Tree Spawning.
++ Removed Chisel and Bits old mod configs.
++ Changed Corail Tombstone Graves.
++ Waila no longer shows SecurityCraft Passwords.
++ Waila default theme is now dark.
++ Enabled Quarks Improved Sign Edit.
++ Quark's Realistic World Type is now the default world.
++ New Menu Panarmoma.
++ New Loading Screen Image.
++ Updated Discord's Logo.
+
+**Added:**
++ Mouse Tweaks
++ Morpheus
++ AmbientSounds 3
++ Wawla
++ World Book
++ Aqua Acrobatics
++ Cooking for Blockheads
++ Dynamic Trees
++ Dynamic Trees - Biomes O' Plenty
++ Dynamic Trees - Pam's Harvestcraft
++ Dynamic Trees - Quark
++ Dynamic Trees - Tinker's Construct
++ Dynamic Trees - Extra Utilities 2
++ Better Foliage
+
+**Removed:**
++ Phosphor
++ Unloader
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Fossilized
+
+---------------------------------------------------------------------------------
 <h1>1.7.3.1b</h1> 
  
 
