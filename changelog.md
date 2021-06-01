@@ -2,6 +2,35 @@
 # Fossilized | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.8.1b</h1> 
+ 
+
+**Updated:** 
++ FancyMenu (2.0.7 → 2.0.7-1)
++ CreativeCore (1.10.60 → 1.10.61)
++ EnderIO (5.2.66 → 5.3.68)
+
+
+**Changed/Fixed**
++ Fixed a rendering issue with Chisel and Bits.
++ Fixed a startup crash (ATLauncher).
++ Renamed What's New to Patch Notes.
++ Renamed Rent a Server to Make a Server.
++ Lowered Dinos walking radius to 1.
++ Re-designed MOJANG Loading Screen.
+
+**Added:**
++ Custom Loading Screen
+
+
+
+**Removed:**
++ FoamFix
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Fossilized
+
+---------------------------------------------------------------------------------
 <h1>1.8.0b</h1> 
  
 
