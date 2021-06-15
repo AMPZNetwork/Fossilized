@@ -2,6 +2,28 @@
 # Fossilized | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.8.1.1b</h1> 
+ 
+
+**Updated:** 
++  
+
+
+**Changed/Fixed**
++ Fixed Dynamic Trees missing mods
++ Fixed a startup crash (remove Custom Loading Screen if still present.)
+
+**Added:**
++ 
+
+**Removed:**
++ 
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Fossilized
+
+---------------------------------------------------------------------------------
+
 <h1>1.8.1b</h1> 
  
 
