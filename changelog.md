@@ -2,6 +2,37 @@
 # Fossilized | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.8.2b</h1> 
+ 
+
+**Updated:** 
++ FancyMenu (2.0.7-1 → 2.3.3)
++ Kontrete (1.1.6 → 1.3.0)
++ Jurassic World Reborn (1.1.0 → 1.2.0) 
+
+**Changed/Fixed**
++ Added Microsoft Ingame Re-Login support.
++ Added Server status on the main menu.
++ Added a Suggestions button on the in-game pause menu.
++ Fixed a start up crash that some users were getting.
++ Fixed the in-game "Report a Bug" tooltip.
+
+**Added:**
++ OAuth
++ Simple Discord RPC
+
+**Removed:**
++ Custom Loading Screen.
++ ReAuth
++ CraftPresence
++ Crash to Main Menu
+
+
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Fossilized
+
+---------------------------------------------------------------------------------
 <h1>1.8.1.1b</h1> 
  
 
