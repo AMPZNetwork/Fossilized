@@ -2,6 +2,92 @@
 # Fossilized | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>2.0.Released - Re-launch</h1> 
+ 
+<h4>This update is not compatible with previous versions<br>
+It's recommend to start a fresh world.<br>
+
+
+**Updated:** 
++ Better Foliage (2.3.2 → 2.3.3)
++ Ender IO (5.3.68 → 5.3.70)
++ Macaw's Doors (1.0.0 → 1.0.3)
++ Macaw's Bridges (1.0.4 → 1.0.6b)
++ MouseTweaks (2.10 → 2.10.1)
++ MixinBootstrap (1.0.5 → 1.1.0)
++ Security Craft (v1.8.21 → v1.8.23.2)
++ CreativeCore (1.10.61 → 1.10.65) 
++ Tesla Core Lib (1.0.17 → 1.0.18)
++ OMLib (3.2.0-256 → 3.1.5-256)
++ Open Modular Turrets (3.2.0-379 → 3.1.14-382)
++ FancyMenu (2.3.3 → 2.3.4)
+
+
+**Changed/Fixed**
++ Added a Recommend Texture Pack button located in Resource Packs menu.
++ Added a new menu music.
++ Fixed nether mobs not spawing (server side).
++ Fixed "Unable to assign further chunkloading tickets to player" Server Side Only.
++ Fixed missing mods (CurseForge).
++ Disabled Quarks Broken Nether Portals.
++ Disabled Quarks Obsidian Spikes.
++ Tweaked and Disabled duplicated ores.
++ Replaced Faithful 32x texture pack with Compliance 32x.
++ Re-Designed Main Menu.
+
+
+**Added:**
++ ItemBlacklist
++ Future MC
++ DrCyano's Lootable Bodies
++ Macaw's Trapdoors
++ Cherished Worlds
++ Storage Drawers
++ Storage Drawers Extras
++ Enchantment Descriptions
++ Tinkers' Tool Leveling
++ Tinkers' Complement
++ Tree Harvester
++ ArchitectureCraft
++ Extreme Reactors
++ Just Enough Reactors
++ Comforts
++ Jade
++ Clear Lag (Server Files Only)
++ No Potion Shift
++ My Server is Compatible
+
+
+**Removed:**
++ Oh The Biomes You'll Go
++ Realistic Terrain Generation
++ Aquaculture 2
++ Corail Tombstone
++ Better Records Mod
++ Better Invalid Session
++ Wawla
++ Wasaila
++ JustEnoughIDs
++ JAOPCA
++ JAOPCAAgriculture
++ CoroUtil
++ Dynamic Trees + addons
++ FallingTree
++ Streams
++ Farseek
++ Agricraft
++ Infinitylib
++ Mystical Agriculture
++ Mystical Agradditions
++ Cucumber Library
++ Dynamic Surroundings
++ OreLib
+
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Fossilized
+
+---------------------------------------------------------------------------------
 <h1>1.8.2b</h1> 
  
 
