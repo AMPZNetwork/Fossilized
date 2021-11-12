@@ -2,6 +2,46 @@
 # Fossilized | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 
+<h1>2.0.1</h1> 
+ 
+<h4>Yes old worlds are compatible, you might get a message about missing entries,<br> 
+just click yes to accept changes and your world should load fine.</h4>
+
+**Updated:** 
++ Future MC (0.2.7.3 → 0.2.7.4)
++ FancyMenu (2.3.5 → 2.3.6)
++ Simple Discord RPC (2.5 → 2.5.1)
++ AmbientSounds 4 (3.1.6 → 3.1.7)
++ Collective (2.64 → 2.65)
++ Tree Harvesster (32 → 4.0)
++ CreativeCore (1.10.65 → 1.10.68)
+
+
+**Changed/Fixed**
++ Fixes Aquaacrobatics sneaking sometimes putting you in swimming mode.
++ Fixed not being able to speak to a Palaeontologist (Servers Only).
++ Disabled Pam's Havestcraft Vanilla Food Balancing.
++ Replaced Compliance 32x texture pack with a custom PureBDcraft.
++ Small Main Menu Tweaks.
++ Improved overall performance.
+
+
+**Added:**
++ AppleSkin
++ Wolf Armor and Storage
++ Death Chest
++ Foam Fix
+
+
+**Removed:**
++ DrCyano's Lootable Bodies
+
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Fossilized
+
+---------------------------------------------------------------------------------
+
 <h1>2.0 - Re-launch</h1> 
  
 <h4>This update is not compatible with previous versions<br>
