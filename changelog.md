@@ -2,6 +2,41 @@
 # Fossilized | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 
+<h1>2.0.2</h1> 
+ 
+<h4>Yes old worlds are compatible, you might get a message about missing entries,<br> 
+just click yes to accept changes and your world should load fine.</h4>
+
+**Updated:**
++ Collective (2.65 → 3.0)
++ CreativeCore (1.10.68 → 1.10.69)
++ FancyMenu (2.3.6 → 2.3.7)
++ OAuth (1.06 → 1.06.2)
+
+
+**Changed/Fixed**
++ Updated Server IP from fossilized.ampznetwork.com to eu.ampznetwork.com
++ Tweaked the Digital Miner MaxRadius from 32 to 8.
++ Tweaked Reborn Mod Maximum Ticket Count from 500 to 0.
++ Tweaked Reborn Mod Dinosaur Walking Radius from 10 to 5.
++ Added some festive season facts to the loading tips.
+
+
+**Added:**
++ OpenBlocks
++ MekanismOres
+
+
+**Removed:**
++ Death Chests
++ SmoothFonts
+
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Fossilized
+
+---------------------------------------------------------------------------------
+
 <h1>2.0.1</h1> 
  
 <h4>Yes old worlds are compatible, you might get a message about missing entries,<br> 
