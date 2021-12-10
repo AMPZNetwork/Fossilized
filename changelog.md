@@ -2,6 +2,29 @@
 # Fossilized | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 
+<h1>2.0.3</h1> 
+ 
+
+**Updated:**
++ Minecraft Forge (14.23.5.2855 → 14.23.5.2856)
+
+
+**Changed/Fixed**
++ Addressing The Active Log4j Exploit.
+
+
+**Added:**<br>
++ 
+
+
+**Removed:**<br>
++ 
+
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/Fossilized
+
+---------------------------------------------------------------------------------
 <h1>2.0.2</h1> 
  
 <h4>Yes old worlds are compatible, you might get a message about missing entries,<br> 
