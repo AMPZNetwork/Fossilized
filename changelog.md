@@ -11,6 +11,7 @@
 
 **Changed/Fixed**
 + Addressing The Active Log4j Exploit.
++ Fixed Official Server not showing in the Multiplayer Area.
 
 
 **Added:**<br>
