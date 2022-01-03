@@ -24,7 +24,7 @@
 + Disabled Farming For Blockheads Agricraft seeds.
 + Removed festive messages.
 + Pack will now use the server icon that the user is on instead of the default pack logo.
-+ Renamed richpresnet Download Pack button to Download.
++ Renamed rich presence Download Pack button to Download.
 + Holding shift now displays tooltip for food values.
 + Magma and Soul sand will now function underwater as they do on 1.13.
 + Moved Official server to USA (**IP: us.ampznetwork.com**)
