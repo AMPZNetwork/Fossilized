@@ -9,7 +9,6 @@
 + Minecraft Forge (14.23.5.2857 → 14.23.5.2860)
 + Aqua Acrobatics (1.3.5 → 1.7.1)
 + Biomes O' Plenty (7.0.1.2444 → 7.0.1.2445)
-+ FancyMenu (2.3.7 → 2.4.3-1)
 + Future MC (0.2.7.4 → 0.2.8)
 + Konkrete (1.3.0 → 1.3.2-1)
 + Security Craft (1.8.23.2 → 1.9.0.2)
