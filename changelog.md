@@ -1,7 +1,48 @@
--------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 # Fossilized | Patch Notes
-<h2>Be sure to always backup your world(s) before updating!</h2>
+## Be sure to always backup your world(s) before updating!
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>2.0.4</h1> 
+ 
 
+**Updated:**
++ Minecraft Forge (14.23.5.2857 → 14.23.5.2860)
++ Aqua Acrobatics (1.3.5 → 1.7.1)
++ Biomes O' Plenty (7.0.1.2444 → 7.0.1.2445)
++ FancyMenu (2.3.7 → 2.4.3-1)
++ Future MC (0.2.7.4 → 0.2.8)
++ Konkrete (1.3.0 → 1.3.2-1)
++ Security Craft (1.8.23.2 → 1.9.0.2)
++ Simple Discord RPC (2.5.1 → 2.6.1)
++ UniDict (3.0.8 → 3.0.10)
++ WanionLib (2.5 → 2.8)
+ 
+
+**Changed/Fixed**
++ Fixed dinos despawning randommly.
++ Disabled AutoJump (because who likes it anyway) by default.
++ Disabled Farming For Blockheads Agricraft seeds.
++ Removed festive messages.
++ Pack will now use the server icon that the user is on instead of the default pack logo.
++ Renamed richpresnet Download Pack button to Download.
++ Holding shift now displays tooltip for food values.
++ Magma and Soul sand will now function underwater as they do on 1.13.
++ Moved Official server to USA (**IP: us.ampznetwork.com**)
++ Untamed wolves will howl at the moon.
+
+
+**Added:**
++ Durability Notifier
++ Featured Servers
+
+
+**Removed:**
++ RandomPatches
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
+
+---------------------------------------------------------------------------------
 <h1>2.0.3</h1> 
  
 
@@ -22,8 +63,7 @@
 + 
 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Fossilized
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
 
 ---------------------------------------------------------------------------------
 <h1>2.0.2</h1> 
@@ -56,8 +96,8 @@ just click yes to accept changes and your world should load fine.</h4>
 + SmoothFonts
 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Fossilized
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
 
 ---------------------------------------------------------------------------------
 
@@ -96,8 +136,8 @@ just click yes to accept changes and your world should load fine.</h4>
 + DrCyano's Lootable Bodies
 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Fossilized
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
 
 ---------------------------------------------------------------------------------
 
@@ -186,8 +226,8 @@ It's recommend to start a fresh world.</h4><br>
 + Macaw's Trapdoors
 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Fossilized
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
 
 ---------------------------------------------------------------------------------
 <h1>1.8.2b</h1> 
@@ -217,8 +257,8 @@ https://github.com/AMPZNetwork/Fossilized
 
 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Fossilized
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
 
 ---------------------------------------------------------------------------------
 
@@ -239,8 +279,8 @@ https://github.com/AMPZNetwork/Fossilized
 **Removed:**
 + 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Fossilized
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
 
 ---------------------------------------------------------------------------------
 
@@ -269,8 +309,8 @@ https://github.com/AMPZNetwork/Fossilized
 **Removed:**
 + FoamFix
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Fossilized
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
 
 ---------------------------------------------------------------------------------
 <h1>1.8.0b</h1> 
@@ -318,8 +358,8 @@ https://github.com/AMPZNetwork/Fossilized
 + Phosphor
 + Unloader
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Fossilized
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
 
 ---------------------------------------------------------------------------------
 <h1>1.7.3.1b</h1> 
@@ -344,8 +384,8 @@ is not needed for ATLauncher or Technic.</h4>
 
 + Controllable
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Fossilized
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
 
 ---------------------------------------------------------------------------------
 <h1>1.7.3b</h1> 
@@ -379,8 +419,8 @@ just click yes to accept changes and your world should load fine.</h4>
 + JurassiCraft
 + Controllable
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Fossilized
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
 
 ---------------------------------------------------------------------------------
 <h1>1.7.2b</h1> 
@@ -415,8 +455,8 @@ https://github.com/AMPZNetwork/Fossilized
 **Removed:**
 + Better Diving
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Fossilized
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
 
 ---------------------------------------------------------------------------------
 <h1>1.7.1b</h1> 
@@ -454,8 +494,7 @@ https://github.com/AMPZNetwork/Fossilized
 + AI Improvements
 + Controllable
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Fossilized
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
 
 ---------------------------------------------------------------------------------
 <h1>1.7.0b</h1> 
@@ -513,8 +552,7 @@ Please make a backup of your worlds before loading into them after updating.</h4
 + GeographiCraf
 + DrCyano's Lootable Bodies
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Fossilized
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
 
 ---------------------------------------------------------------------------------
 <h1>1.6.1b</h1> 
@@ -540,8 +578,7 @@ https://github.com/AMPZNetwork/Fossilized
 **Removed:**
 + Tough As Nails
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Fossilized
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
 
 ---------------------------------------------------------------------------------
 <h1>1.6.0b</h1> 
@@ -587,8 +624,7 @@ https://github.com/AMPZNetwork/Fossilized
 + EnhancedVisuals
 + CreativeCore
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Fossilized
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
 
 ---------------------------------------------------------------------------------
 <h1>1.5.1b</h1>  
@@ -614,8 +650,7 @@ https://github.com/AMPZNetwork/Fossilized
  
 **Removed:**
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Fossilized
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
 
 ---------------------------------------------------------------------------------
 <h1>1.5.0b</h1> 
@@ -667,8 +702,7 @@ make sure to keep a water bottle with you at all times.
 + TreeCapitator
 + Mr Crayfish's Furniture
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Fossilized
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
 
 ---------------------------------------------------------------------------------
 <h1>1.4.1b</h1>
@@ -690,11 +724,7 @@ https://github.com/AMPZNetwork/Fossilized
 + NoMoreRecipeConflict
 
  
-**Removed:**
-
-
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Fossilized
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
 
 ---------------------------------------------------------------------------------
 <h1>1.4.0b</h1> 
@@ -725,11 +755,8 @@ just click yes to accept changes and your world should load fine.</h4>
 **Added:**
 + Streams
  
-**Removed:**
 
-
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Fossilized
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
 
 ---------------------------------------------------------------------------------
 <h1> 1.3.1b - Performance Improvments</h1> 
@@ -768,8 +795,7 @@ just click yes to accept changes and your world should load fine.</h4>
 + Weather 2
 + Better Foliage
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Fossilized
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
 
 ---------------------------------------------------------------------------------
 <h1> 1.3b</h1> 
@@ -837,7 +863,6 @@ just click yes to accept changes and your world should load fine.</h4>
 + Farseek
 + Improved Backpacks
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/Fossilized
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
 
 ---------------------------------------------------------------------------------
