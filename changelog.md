@@ -2,6 +2,55 @@
 # Fossilized | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>2.1</h1> 
+ 
+<h4>Old worlds maybe compatible with this update. Not Guaranteed</h4>
+
+**Updated:**
++ Simple Discord RPC (2.6.1 → 2.7.1)
++ WanionLib (2.8 → 2.9)
++ Konkrete (1.3.2-1 → 1.3.3)
++ FancyMenu (2.3.7 → 2.6.0)
+
+**Changed/Fixed**
++ Fixed Discord rich present not showing our official server.
++ Fixed a conflict with a few mods.
++ Fixed Tinker's Construct longbow and crossbows not working if taken from Creative Mode [#4](https://github.com/AMPZNetwork/Fossilized/issues/4).
++ Auto Chisel now needs power to function.
++ Disabled Extra Utilities 2 biome marker.
++ Improved Backpacks keybind is set to use # key.
++ General Performance Improvements.
+
+
+**Added:**
++ MineJurassic
++ MineJurassic Vehicles
++ AE2 Stuff
++ Tinker's JEI
++ Improved Backpacks
++ Baubles
++ OpenComputers Drivers for Tinkers Construct
++ Yet Another Recipe Conflict Fixer
++ What's That Slot?
+
+**Removed:**
++ Aqua Acrobatics
++ Foam Fix
++ Better Animations Collection
++ Jurassic World Reborn Mod
++ Exotic Birds
++ Better Foliage
++ BetterFps
++ Tinkers' Tool Leveling
++ Backpacked
++ stimmedcow : NoMoreRecipeConflict
++ Quarks
++ AutoRegLib
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
+
+---------------------------------------------------------------------------------
 <h1>2.0.4</h1> 
  
 
