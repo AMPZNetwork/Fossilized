@@ -2,6 +2,39 @@
 # Fossilized | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>2.1.1</h1> 
+
+<h4>Yes old worlds are compatible, you might get a message about missing entries,<br> 
+just click yes to accept changes and your world should load fine.</h4>
+ 
+**Updated:**
++ CreativeCore (1.10.69 → 1.10.70)
++ FancyMenu (2.6.0 → 2.3.7)
++ Wolf Armor and Storage (3.7.5 → 3.8.0)
+
+**Changed/Fixed**
++ Fixed an issue with the pack crashing after updating from 2.0.4.
++ Fixed an issue with MineJurassic crashing during the loading process.
++ Fixed "More Pack" and "CurseForge" button URLs.
++ Renamed "3RD Life" button to "Dead Light Z".
++ Replaced the default Minecraft font with a custom one (can be overridden with a resource pack).
++ General Performance and Improvements.
+
+
+**Added:**
++ Inventory Tweaks (CurseForge)
++ Load My Resources
++ MrCrayfish's Vehicle Mod
++ Obfuscate
+
+**Removed:**
++ Resource Loader
++ MineJurassic Vehicles
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
+
+---------------------------------------------------------------------------------
 <h1>2.1</h1> 
  
 <h4>Old worlds maybe compatible with this update. Not Guaranteed</h4>
