@@ -2,6 +2,33 @@
 # Fossilized | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>2.1.2</h1> 
+ 
+**Updated:**
++ FancyMenu (2.3.7 → 2.6.4)
++ BiblioCraft (2.4.5 → 2.4.6)
++ Simple Discord RPC (2.7.1 → 2.7.2)
++ Security Craft (1.9.0.2 → 1.9.1)
++ OAuth (1.06.2 → 1.06.3)
+
+**Changed/Fixed**
++ Fixed Discord rich present not showing our official server for CurseForge Users.
++ Increased the MineJurassic texutres from 128x to 256x.
++ Improved the custom main menu music behaviour.
++ Small changes to the Simple RPC file.
+
+**Added:**
++ BisectHosting Server Integration Menu
++ Tinkers' Tool Leveling
++ Had Enough Items
+
+**Removed:**
++ Just Enough Items
++ World Book
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
+
+---------------------------------------------------------------------------------
 <h1>2.1.1</h1> 
 
 <h4>Yes old worlds are compatible, you might get a message about missing entries,<br> 
