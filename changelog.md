@@ -18,7 +18,7 @@
 + Removed "Recommended Pack" button (get the new link on our discord server).
 + Small Main Menu changes.
 + Small change to the Simple RPC file.
-+ QOL Improvments.
++ QOL Improvements.
 
 **Added:**
 + Skin Layers 3D
