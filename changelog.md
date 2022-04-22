@@ -2,6 +2,36 @@
 # Fossilized | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>2.1.3 (1.12.2)</h1> 
+
+<h4>Final update for our 1.12.2 version, unless something major pops up before we release 3.0.</h4>
+ 
+**Updated:**
++ BisectHosting Server Integration Menu (1.2 → 1.3)
++ FancyMenu (2.6.4 → 2.6.5)
++ Future MC (0.2.8 → 0.2.9)
++ Had Enough Items (4.18.2 → 4.20.1)
++ OAuth (1.06.3 → 1.06.4)
+
+**Changed/Fixed**
++ Renamed the in-game pause menu button "1.16.5 Preview" to 1.16.5 version.
++ Removed "Recommended Pack" button (get the new link on our discord server).
++ Small Main Menu changes.
++ Small change to the Simple RPC file.
++ QOL Improvments.
+
+**Added:**
++ Skin Layers 3D
+
+**Removed:**
++ Kinetic Anti-Cheat
++ OptiFine
++ U Team Core
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
+
+---------------------------------------------------------------------------------
 <h1>2.1.2</h1> 
  
 **Updated:**
