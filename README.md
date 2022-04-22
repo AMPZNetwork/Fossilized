@@ -1,5 +1,5 @@
 <p align="center">
-| <img src="https://www.bisecthosting.com/images/CF/Fossilized2/BH_FS_Header.png" alt="Get your server today!"  width="2255" height="785"></a>|
+| <img src="https://www.bisecthosting.com/images/CF/Fossilized2/BH_FS_Header.png" alt="Get your server today!"  width="2255" height="350"></a>|
 </p>
 ======
 
@@ -14,7 +14,7 @@ Need Help?
 ======
 When reporting an issue put the version number before the issue title! Such as [FULL][3.0] My game is broken! Also include any added mods you may have put in, into the description of the issue. 
  
-|You can also find us on Discord for help<br>or just to chat as well as our Guilded Server|
+|You can also find us on Discord for help<br>or just to chat.|
 |:------------:|
 |<a href="https://discord.gg/enrpMDd"><img src="https://discord.com/assets/ff41b628a47ef3141164bfedb04fb220.png" alt="Join us on Discord!"  width="250" height="70"></a>|
 
