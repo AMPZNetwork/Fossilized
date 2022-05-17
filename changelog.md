@@ -1,3 +1,5 @@
+[![](https://www.bisecthosting.com/images/CF/Fossilized/BH_FS_PromoCard.png) ](https://bisecthosting.com/AMPZ)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 # Fossilized | Patch Notes
 ## Be sure to always backup your world(s) before updating!
