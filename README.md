@@ -3,12 +3,12 @@
 </p>
 ======
 
-This is the official repository and issue-tracker for Fossilized 1.12/1.16.5
+This is the official repository and issue-tracker for Fossilized 1.12.2 & 1.16.5
     
 #### Modpack Links: 
-+ https://www.curseforge.com/minecraft/modpacks/fossilized  
-+ https://www.technicpack.net/modpack/fossilized.1628025  
-+ https://atlauncher.com/pack/Fossilized/  
++ [CurseForge](https://www.curseforge.com/minecraft/modpacks/fossilized)  
++ [Technic Pack](https://www.technicpack.net/modpack/fossilized.1628025)
++ [ATLauncher](https://atlauncher.com/pack/Fossilized)
   
 Need Help?
 ======
