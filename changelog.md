@@ -1,14 +1,38 @@
-[![](https://www.bisecthosting.com/images/CF/Fossilized/BH_FS_PromoCard.png) ](https://bisecthosting.com/AMPZ)
+[![](https://www.bisecthosting.com/images/CF/Fossilized2/BH_FS_PromoCard.png) ](https://bisecthosting.com/AMPZ)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 # Fossilized | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h1>2.1.3 (1.12.2)</h1> 
+<h1>2.1.4 (1.12.2)</h1> 
 
 <h4>Final update for our 1.12.2 version, unless something major pops up before we release 3.0.</h4>
  
 **Updated:**
++ FancyMenu (2.6.5 → 2.9.1)
++ Future MC (0.2.9 → 0.2.10.1)
++ Had Enough Itesm (4.20.1 → 4.22.2)
++ MineJurassic (1.3.1 → 1.4.1)
++ MrCrayfish's Furniture Mod (6.3.1 → 6.3.2)
++ Security Craft (1.9.1 → 1.9.2)
++ Skin Layers 3D (1.1.0 → 1.2.0) 
+
+**Changed/Fixed**
++ Fixed the crash about the Procedure for the Advancment "Welcome to MJ".
++ Fixed a security vulnerability with furniture mod.
++ Updated server ip from us.ampznetwork.com to fossil.ampznetwork.com.
++ Added **"Technoblade Never Dies!"** to the splash.txt.
+
+**Removed:**
++ U Team Core
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
+
+---------------------------------------------------------------------------------
+<h1>2.1.3 (1.12.2)</h1> 
+
+ **Updated:**
 + BisectHosting Server Integration Menu (1.2 → 1.3)
 + FancyMenu (2.6.4 → 2.6.5)
 + Future MC (0.2.8 → 0.2.9)
