@@ -11,7 +11,7 @@
 **Updated:**
 + FancyMenu (2.6.5 → 2.9.1)
 + Future MC (0.2.9 → 0.2.10.1)
-+ Had Enough Itesm (4.20.1 → 4.22.2)
++ Had Enough Items (4.20.1 → 4.22.2)
 + MineJurassic (1.3.1 → 1.4.1)
 + MrCrayfish's Furniture Mod (6.3.1 → 6.3.2)
 + Security Craft (1.9.1 → 1.9.2)
