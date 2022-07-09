@@ -1,6 +1,5 @@
-<p align="center">
-| <img src="https://www.bisecthosting.com/images/CF/Fossilized2/BH_FS_Header.png" alt="Get your server today!"  width="2255" height="350"></a>|
-</p>
+![](https://www.bisecthosting.com/images/CF/Fossilized2/BH_FS_Header.png)
+
 ======
 
 This is the official repository and issue-tracker for Fossilized 1.12.2 & 1.16.5
@@ -22,6 +21,4 @@ Looking for a Reliable Server Host?
 ======
 AMPZ Network has partnered up with BisectHosting to give our community a discount on their first order of any of their gaming services, by using promo code **"AMPZ"** you will save 25% off your first order. Click the banner below to get yours. 
 
-<p align="center">
-| <a href="https://bisecthosting.com/AMPZ"><img src="https://www.bisecthosting.com/images/CF/Fossilized2/BH_FS_PromoCard.png" alt="Get your server today!"  width="1920" height="170"></a>|
-</p>
+[![](https://www.bisecthosting.com/images/CF/Fossilized2/BH_FS_PromoCard.png) ](https://bisecthosting.com/AMPZ)
