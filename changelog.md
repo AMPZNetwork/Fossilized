@@ -4,9 +4,37 @@
 # Fossilized | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h1>2.1.4 (1.12.2)</h1> 
+<h1>2.1.5 (1.12.2)</h1> 
 
 <h4>Final update for our 1.12.2 version, unless something major pops up before we release 3.0.</h4>
+ 
+**Updated:**
++ FancyMenu (2.9.1 → 2.12.1)
++ Fossils and Archeology: Revival (8.0.5 → 8.0.6)
++ Future MC (0.2.10.1 → 0.2.11)
++ Had Enough Items (4.22.2 → 4.24.0)
++ Konkrete (1.3.3 → 1.5.0)
++ OpenComputers (1.7.5.192 → 1.7.7)
++ Reforged (0.7.5 → 0.7.7)
++ Security Craft (1.9.2 → 1.9.3.1)
++ Simple Discord RPC (2.7.2 → 3.1.1)
+
+**Changed/Fixed**
++ Removed AE2 Facade from showing up in JEI.
++ Re-Designed Pause Menu.
++ Updated splash.txt file.
+
+**Added:**
++ Blur
+
+**Removed:**
++ YUNG's Better Mineshaft
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
+
+---------------------------------------------------------------------------------
+<h1>2.1.4 (1.12.2)</h1> 
  
 **Updated:**
 + FancyMenu (2.6.5 → 2.9.1)
