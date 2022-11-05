@@ -1,12 +1,31 @@
 [![](https://www.bisecthosting.com/images/CF/Fossilized2/BH_FS_PromoCard.png) ](https://bisecthosting.com/AMPZ)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-# Fossilized | Patch Notes
+ # Fossilized | Patch Notes
 ## Be sure to always backup your world(s) before updating!
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h1>2.1.5 (1.12.2)</h1> 
+
+<h1>2.1.6 (1.12.2)</h1> 
 
 <h4>Final update for our 1.12.2 version, unless something major pops up before we release 3.0.</h4>
+ 
+**Updated:**
++ FancyMenu (v2.12.1 → v2.12.6)
++ Konkrete (1.5.0 → 1.5.3)
++ Reforged (0.7.7 → 0.7.8)
+
+**Changed/Fixed**
++ Fixed a crash when trying to load a singleplayer world. 
+
+**Added:**
++ 
+
+**Removed:**
++ 3D Skin Layers
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
+
+---------------------------------------------------------------------------------
+<h1>2.1.5 (1.12.2)</h1> 
  
 **Updated:**
 + FancyMenu (2.9.1 → 2.12.1)
