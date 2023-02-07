@@ -3,6 +3,35 @@
  # Fossilized | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 
+<h1>2.1.7 (1.12.2)</h1> 
+
+**Updated:**
++ ArchitectureCraft (3.98 → 3.108)
++ FancyMenu (2.12.6 → 2.13.3)
++ Konkrete (1.5.3 → 1.6.0)
++ Load My Resources (1.0.1 → 1.0.4)
++ Reforged (0.7.8 → 0.7.9)
++ Security Craft (v1.9.3.1 → v1.9.5)
+
+**Changed/Fixed**
++ Fixed server files crashing on Linux.
++ Fixed potential server-side crash when localizing shape names.
++ Fixed fluid rendering for large integer numbers.
++ Fixed issues with Blunderbuss and some other weapons.
++ Fixed a crash when inserting a module into a single Inventory Scanner.
++ Fixed a few small grammar errors.
++ Small UI tweaks.
+
+**Added:**
++ Just Enough Items
+
+**Removed:**
++ Blur
++ Had Enough Items
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
+
+---------------------------------------------------------------------------------
 <h1>2.1.6 (1.12.2)</h1> 
 
 <h4>Final update for our 1.12.2 version, unless something major pops up before we release 3.0.</h4>
