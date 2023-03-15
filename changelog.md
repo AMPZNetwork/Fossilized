@@ -3,6 +3,26 @@
  # Fossilized | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 
+<h1>2.1.8 (1.12.2)</h1> 
+
+**Updated:**
++ Security Craft (v1.9.5 → v1.9.6)
++ Controlling (3.0.10 → 3.0.12.2)
+
+**Changed/Fixed**
++ Fixed shift-clicking a potion in the brewing stand screen puts the potion into the wrong slot.
++ Fixed severe lag when a player mounts a camera on a server when other players are connected.
++ Fixed some text in the check password screens doesn't show up properly.
++ Fixed the Reinforced Hopper checks for the wrong allowlist sometimes.
++ Fixed creating a reinforced double slab does not retain the owner
++ Updated Suggestions and Forums URL.
++ Updated CurseForge icon to their new rebranded one.
++ Small UI tweaks.
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
+
+---------------------------------------------------------------------------------
+
 <h1>2.1.7 (1.12.2)</h1> 
 
 **Updated:**
