@@ -2,7 +2,27 @@
 
  # Fossilized | Patch Notes
 ## Be sure to always backup your world(s) before updating!
+-----------------------------------------------------------------------------------------------
+<h1>2.1.9 (1.12.2)</h1>
 
+**Updated:**
++ BisectHosting server Integration menu  (v1.3 → v2.3.1)
++ FancyMenu (2.13.3 → 2.14.7)
++ Konkrete (1.6.0 → 1.6.1)
++ OpenComputers (1.7.7+5413028 → 1.8.0+9833087)
+
+**Changed/Fixed**
++ Added the ability to view other public servers that use this pack and are hosted on BisectHosting.
++ Added new robot names.
++ OpenComputers now officialy supports AArch64 on Linux and macOS.
++ Fixed freeze when connecting a ComputerCraft peripheral via an Adapter.
++ Fixed a memory leak with OpenComputers.
++ Removed native Lua library support for x86 (32-bit) macOS.
++ Small changes to Discord RPC.
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
+
+---------------------------------------------------------------------------------
 <h1>2.1.8 (1.12.2)</h1> 
 
 **Updated:**
