@@ -2,7 +2,26 @@
 
  # Fossilized | Patch Notes
 ## Be sure to always backup your world(s) before updating!
------------------------------------------------------------------------------------------------
+
+<h1>2.1.10 (1.12.2)</h1>
+
+**Updated:**
++ OpenComputers (1.8.0 → 1.8.2)
++ SecurityCraft (v1.9.6- → v1.9.7)
+
+**Changed/Fixed**
++ Fixed some crashes when rendering some modded block entities in a Projector, or using them as a disguise.
++ Fixed shields do not take damage when blocking a taser that deals high enough damage.
++ Fixed an known exploit.
++ Fixed an issue with shields where they do not take damage when blocking a taser that deals high enough damage.
++ Fixed BisectHosting public server button text displaying incorrectly.
+
+**Removed:**
++ Morpheus
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
+---------------------------------------------------------------------------------
 <h1>2.1.9 (1.12.2)</h1>
 
 **Updated:**
