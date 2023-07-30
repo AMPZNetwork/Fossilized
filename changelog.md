@@ -1,7 +1,30 @@
 [![](https://www.bisecthosting.com/images/CF/Fossilized2/BH_FS_PromoCard.png) ](https://bisecthosting.com/AMPZ)
 
- # Fossilized | Patch Notes
+# Fossilized | Patch Notes
 ## Be sure to always backup your world(s) before updating!
+-----------------------------------------------------------------------------------------------
+<h1>2.1.11 (1.12.2) - Security Patch</h1>
+
+<h4>We highly urge all users, especially those employing our modpack for servers,<br>to promptly update to this version.</h4>
+
+**Updated:**
++ BisectHosting server Integration menu  (v2.3.1 → v2.4.0)
++ EnderCore (0.5.76 → 0.5.78)
++ FancyMenu (2.14.7 → 2.14.9)
++ Numina (1.0.38 → 1.1.049)
++ OpenComputers (1.8.2 → 1.8.3)
++ Placebo (1.6.0 → 1.6.1)
++ Storage Drawers (5.4.2 → 5.5.0)
++ WanionLib (2.9 → 2.91)
+
+**Changed/Fixed**
++ Fixed an issue with ArrayIndexOutOfBoundsException when using servers with 3 network cards.
++ Fixed a render crash of glinted items in drawer GUI.
++ Updated to address the recent bleeding pipe exploit. Learn more details [here](https://github.com/dogboy21/serializationisbad).
++ Updated a few in-game loading tips.
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
+---------------------------------------------------------------------------------
 
 <h1>2.1.10 (1.12.2)</h1>
 
