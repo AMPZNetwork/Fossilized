@@ -3,6 +3,35 @@
 # Fossilized | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -----------------------------------------------------------------------------------------------
+<h1>2.1.12 (1.12.2) - Security Patch 2</h1>
+
+<h4>We highly urge all users, especially those employing our modpack for servers,<br>to promptly update to this version.</h4>
+
+**Updated:**
++ BdLib (1.14.3.12 → 1.14.4.1)
++ Ender IO (5.3.70 → 5.3.72)
++ EnderCore (0.5.77 → 0.5.78) 
+
+**Changed/Fixed**
++ Add memorycard support to AE2 for fluid interfaces, import/export/storage busses and level emitters.
++ Fixed gregtech machines appearing with 'unnamed' or 'draconium lens' on the interface terminal on specific situations.
++ Fixed AE going offline even with enough power by extracting from the local buffer always last.
++ Fixed IO-Port copying craftable flag into items.
++ Fixed network vulnerability with bdlib.
++ Fixed a bunch of broken text for BisectHosting buttons.
+
+**Added:**
++ SerializationIsBad
++ AE2 Unofficial Extended Life
++ Modern Splash
++ MixinBooter 
+
+**Removed:**
++ Applied Energistics 2
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
+
+---------------------------------------------------------------------------------
 <h1>2.1.11 (1.12.2) - Security Patch</h1>
 
 <h4>We highly urge all users, especially those employing our modpack for servers,<br>to promptly update to this version.</h4>
