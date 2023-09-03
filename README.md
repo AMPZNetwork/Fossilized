@@ -10,10 +10,10 @@ This is the official repository for Fossilized 1.12.2. If you encounter any bugs
 + [CurseForge](https://www.curseforge.com/minecraft/modpacks/fossilized)  
 + [Technic Pack](https://www.technicpack.net/modpack/fossilized.1628025)
 + [ATLauncher](https://atlauncher.com/pack/Fossilized)
-  
-## Need Help?
 
 ------
+
+## Need Help?
 
 To ensure efficient tracking and resolution of issues, please follow this format when reporting: `[vX.X.X] Issue Title`. Additionally, include any additional mods you've added to the modpack in the issue description. Your cooperation helps us identify and fix problems quickly. Thank you for your assistance.
  
