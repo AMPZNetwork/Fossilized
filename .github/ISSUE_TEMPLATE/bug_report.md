@@ -1,33 +1,31 @@
 ---
 name: Bug report
-about: Create a report to help me improve Fossilzed
+about: Issue report for Fossilized
 title: "[BUG]"
-labels: bug
-assignees: ''
-
+labels: Bug
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Bug Description
+Please provide a concise description of the issue you're experiencing.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
+## Reproduction Steps
+To replicate the problem, follow these steps:
+1. Navigate to '...'
 2. Click on '....'
 3. Scroll down to '....'
-4. See error
+4. Observe the error
 
-**Expected behavior**
-A clear and detailed description of what you expected to happen.
+## Expected Outcome
+Explain what you anticipated should happen in detail.
 
-**Crash Log**
-If the bug includes a crash, please paste or link it here.
+## Crash Log (if applicable)
+If the bug triggers a crash, please include or link the crash log here.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Screenshots
+If relevant, include screenshots to aid in explaining the issue.
 
-**Basic Informations (please complete the following information):**
- - OS: [e.g. Windows]
- - Fossilized Version [e.g. 1.6.0b]
- - Platform [e.g. technicpack]
- - Extra mods added by you [e.g. Optifine]
+## Basic Information (please fill in the following details):
+ - Operating System: [e.g., Windows]
+ - All The Forge 9 Version: [e.g., 2.1.12]
+ - Platform: [e.g., technicpack]
+ - Additional Mods Installed: [e.g., Optifine]
