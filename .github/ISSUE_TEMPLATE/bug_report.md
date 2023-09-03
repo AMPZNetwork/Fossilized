@@ -26,6 +26,6 @@ If relevant, include screenshots to aid in explaining the issue.
 
 ## Basic Information (please fill in the following details):
  - Operating System: [e.g., Windows]
- - All The Forge 9 Version: [e.g., 2.1.12]
+ - Fossilized Version: [e.g., 2.1.12]
  - Platform: [e.g., technicpack]
  - Additional Mods Installed: [e.g., Optifine]
