@@ -1,37 +1,71 @@
-[![](https://www.bisecthosting.com/images/CF/Fossilized2/BH_FS_PromoCard.png) ](https://bisecthosting.com/AMPZ)
+[![](https://www.bisecthosting.com/images/CF/Fossilized2/BH_FS_PromoCard.png) ](https://bisecthosting.com/AMPZ?=FSLZ)
 
 # Fossilized | Patch Notes
-## Be sure to always backup your world(s) before updating!
------------------------------------------------------------------------------------------------
-<h1>2.1.12 (1.12.2) - Security Patch 2</h1>
+### Be sure to review these changes carefully before updating your world(s).
+---
 
-<h4>We highly urge all users, especially those employing our modpack for servers,<br>to promptly update to this version.</h4>
+## Version: 2.1.13 (1.12.2) 
 
-**Updated:**
-+ BdLib (1.14.3.12 → 1.14.4.1)
-+ Ender IO (5.3.70 → 5.3.72)
-+ EnderCore (0.5.77 → 0.5.78) 
+### Updated:
+- BisectHosting Server Integration Menu (2.4.0 → 2.4.1)
+- Controlling (3.0.12.2 → 3.0.12.3)
+- CreativeCore (1.10.70 → 1.10.71)
+- Future MC (0.2.11 → 0.2.19)
+- JourneyMap (5.7.1 → 5.7.1p2)
+- MixinBooter (8.4 → 8.8)
+- Security Craft (1.9.7 → 1.9.8)
+- SerializationIsBad (1.4 → 1.5.2)
 
-**Changed/Fixed**
-+ Add memorycard support to AE2 for fluid interfaces, import/export/storage busses and level emitters.
-+ Fixed gregtech machines appearing with 'unnamed' or 'draconium lens' on the interface terminal on specific situations.
-+ Fixed AE going offline even with enough power by extracting from the local buffer always last.
-+ Fixed IO-Port copying craftable flag into items.
-+ Fixed network vulnerability with bdlib.
-+ Fixed a bunch of broken text for BisectHosting buttons.
+### Changes and Fixes
+- Adressed a startup crash with SerializationIsBad [83](https://github.com/dogboy21/serializationisbad/issues/83).
+- Fixed compatibility with Essentials Mod.
+- Fixed Bees not leaving the hive unless blocked in.
+- Fixed Grindstone crash with broken mod enchantments.
+- Fixed scaffolding not breaking instantly.
+- Fixed Placing, breaking, and interacting with blocks next to a Sentry is not possible.
+- Fixed typo in tips causing one of them to show an error.
+- Fixed formatting error with the "Need a server?" button on the multiplayer screen.
+- Fixed splash txt not using custom text when using a texture pack.
+- Removed Technic tip referance.
+- Updated Discord and store URLs where used in the pack.
 
-**Added:**
-+ SerializationIsBad
-+ AE2 Unofficial Extended Life
-+ Modern Splash
-+ MixinBooter 
+### Removed:
+- No Recipe Book
 
-**Removed:**
-+ Applied Energistics 2
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/Fossilized)
 
-Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Fossilized)
+---
 
----------------------------------------------------------------------------------
+## Version: 2.1.12 (1.12.2) - Security Patch 2
+
+### We highly urge all users, especially those employing our modpack for servers,<br>to promptly update to this version.</h4>
+
+### Updated:
+- BdLib (1.14.3.12 → 1.14.4.1)
+- Ender IO (5.3.70 → 5.3.72)
+- EnderCore (0.5.77 → 0.5.78) 
+
+### Changes and Fixes
+- Add memorycard support to AE2 for fluid interfaces, import/export/storage busses and level emitters.
+- Fixed gregtech machines appearing with 'unnamed' or 'draconium lens' on the interface terminal on specific situations.
+- Fixed AE going offline even with enough power by extracting from the local buffer always last.
+- Fixed IO-Port copying craftable flag into items.
+- Fixed network vulnerability with bdlib.
+- Fixed a bunch of broken text for BisectHosting buttons.
+
+### Added:
+- SerializationIsBad
+- AE2 Unofficial Extended Life
+- Modern Splash
+- MixinBooter 
+
+### Removed:
+- Applied Energistics 2
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/Fossilized)
+
+---
+
 <h1>2.1.11 (1.12.2) - Security Patch</h1>
 
 <h4>We highly urge all users, especially those employing our modpack for servers,<br>to promptly update to this version.</h4>
