@@ -26,6 +26,6 @@ If relevant, include screenshots to aid in explaining the issue.
 
 ## Basic Information (please fill in the following details):
  - Operating System: [e.g., Windows]
- - Fossilized Version: [e.g., 2.1.12]
- - Platform: [e.g., technicpack]
+ - Fossilized Version: [e.g., 2.1.13]
+ - Platform: [e.g., atlauncher]
  - Additional Mods Installed: [e.g., Optifine]
